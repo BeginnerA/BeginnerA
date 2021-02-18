@@ -137,10 +137,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeginnerA&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerA&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/BeginnerA/mybatis-basis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerA)](https://github.com/BeginnerA/mybatis-basis)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 🎧 Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/jqswc8dscxak8txssb9lknyeb)
