@@ -137,6 +137,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeginnerA&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerA&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/BeginnerA/mybatis-basis)
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=BeginnerA&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeginnerA&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+
 ### 🎧 Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/jqswc8dscxak8txssb9lknyeb)
